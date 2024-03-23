@@ -1,0 +1,9 @@
+﻿  dllapi.cpp
+  dllmain.cpp
+  engine_api.cpp
+  h_export.cpp
+  meta_api.cpp
+  server_hook.cpp
+  Generating Code...
+     Creating library C:\Users\Estefano\source\repos\metamod-fallguys\Debug\asext.lib and object C:\Users\Estefano\source\repos\metamod-fallguys\Debug\asext.exp
+  asext.vcxproj -> C:\Users\Estefano\source\repos\metamod-fallguys\Debug\asext.dll

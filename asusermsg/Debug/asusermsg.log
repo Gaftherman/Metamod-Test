@@ -1,0 +1,11 @@
+﻿  asusermsg.cpp
+  dllapi.cpp
+  dllmain.cpp
+  engine_api.cpp
+  engine_hook.cpp
+  h_export.cpp
+  meta_api.cpp
+  server_hook.cpp
+  Generating Code...
+     Creating library C:\Users\Estefano\source\repos\metamod-fallguys\Debug\asusermsg.lib and object C:\Users\Estefano\source\repos\metamod-fallguys\Debug\asusermsg.exp
+  asusermsg.vcxproj -> C:\Users\Estefano\source\repos\metamod-fallguys\Debug\asusermsg.dll

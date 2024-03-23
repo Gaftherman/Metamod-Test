@@ -1,0 +1,14 @@
+﻿  dllapi.cpp
+  dllmain.cpp
+  engine_api.cpp
+  engine_hook.cpp
+  fallguys.cpp
+  h_export.cpp
+  meta_api.cpp
+  physics.cpp
+C:\Users\Estefano\source\repos\metamod-fallguys\fallguys\physics.cpp(2290,16): warning C4834: discarding return value of function with 'nodiscard' attribute
+  server_hook.cpp
+  soundengine.cpp
+  Generating Code...
+     Creating library C:\Users\Estefano\source\repos\metamod-fallguys\Debug\fallguys.lib and object C:\Users\Estefano\source\repos\metamod-fallguys\Debug\fallguys.exp
+  fallguys.vcxproj -> C:\Users\Estefano\source\repos\metamod-fallguys\Debug\fallguys.dll

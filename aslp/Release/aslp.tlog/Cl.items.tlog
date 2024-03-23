@@ -1,0 +1,16 @@
+C:\Users\Estefano\source\repos\Metamod\aslp\source\angelscript\vftable.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\vftable.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\aslp.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\aslp.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\dllapi.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\dllapi.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\dllmain.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\dllmain.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\engine_api.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\engine_api.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\engine_hook.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\engine_hook.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\entities\CApache.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\CApache.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\entities\CBloater.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\CBloater.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\entities\COsprey.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\COsprey.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\entities\CPlayer.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\CPlayer.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\entities\CSentry.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\CSentry.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\entities\CTurret.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\CTurret.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\entities\register.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\register.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\h_export.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\h_export.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\meta_api.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\meta_api.obj
+C:\Users\Estefano\source\repos\Metamod\aslp\source\server_hook.cpp;C:\Users\Estefano\source\repos\Metamod\aslp\Release\server_hook.obj

@@ -1,0 +1,4 @@
+﻿  metamod.vcxproj -> C:\Users\Estefano\source\repos\Metamod\Release\metamod.dll
+  El sistema no puede encontrar la ruta especificada.
+D:\Archivos de Programa\Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: El comando "copy "C:\Users\Estefano\source\repos\metamod-fallguys\Release\metamod.dll" "C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop\addons\metamod\dlls"
+D:\Archivos de Programa\Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" salió con el código 1.

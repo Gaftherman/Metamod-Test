@@ -1,0 +1,32 @@
+﻿  vftable.cpp
+  aslp.cpp
+  dllapi.cpp
+  dllmain.cpp
+  engine_api.cpp
+  engine_hook.cpp
+  CApache.cpp
+  CBloater.cpp
+  COsprey.cpp
+  CPlayer.cpp
+  CSentry.cpp
+  CTurret.cpp
+  register.cpp
+  h_export.cpp
+  meta_api.cpp
+  server_hook.cpp
+     Creando biblioteca C:\Users\Estefano\source\repos\Metamod\Release\aslp.lib y objeto C:\Users\Estefano\source\repos\Metamod\Release\aslp.exp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 561 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  aslp.vcxproj -> C:\Users\Estefano\source\repos\Metamod\Release\aslp.dll
+  Iniciando el script de compilaci├│n...
+  Verificando si el proceso svencoop.exe est├í en ejecuci├│n...
+  Verificando nuevamente si el proceso svencoop.exe se ha cerrado...
+  Proceso svencoop.exe cerrado con ├®xito.
+  El proceso svencoop.exe no est├í en ejecuci├│n.
+  Copiando el archivo C:\Users\Estefano\source\repos\Metamod\Release\aslp.dll a C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop\addons\metamod\dlls...
+          1 archivo(s) copiado(s).
+  Copia completa.
+  Finalizando el script de compilaci├│n.
+  Presione una tecla para continuar . . . 

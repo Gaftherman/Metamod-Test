@@ -1,0 +1,8 @@
+C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\ascurl.cpp;C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\Release\ascurl.obj
+C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\dllapi.cpp;C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\Release\dllapi.obj
+C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\dllmain.cpp;C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\Release\dllmain.obj
+C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\engine_api.cpp;C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\Release\engine_api.obj
+C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\engine_hook.cpp;C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\Release\engine_hook.obj
+C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\h_export.cpp;C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\Release\h_export.obj
+C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\meta_api.cpp;C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\Release\meta_api.obj
+C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\server_hook.cpp;C:\Users\Estefano\source\repos\metamod-fallguys\ascurl\Release\server_hook.obj
